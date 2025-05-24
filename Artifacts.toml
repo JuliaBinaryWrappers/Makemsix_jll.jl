@@ -1,0 +1,125 @@
+[[Makemsix]]
+arch = "aarch64"
+git-tree-sha1 = "70abc61a10ba105c773e36e293985b56370bd439"
+os = "macos"
+
+    [[Makemsix.download]]
+    sha256 = "f0e7cb9de64116a570fd3db85b7fa5532ab3ed314b4b79ed6652741fef0e72d8"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.aarch64-apple-darwin.tar.gz"
+[[Makemsix]]
+arch = "aarch64"
+git-tree-sha1 = "42fb0134a8dba9a082241f988fcbf0b430e1fc12"
+libc = "glibc"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "dfe3016252648a67fa825af38ff6ed9d523525d7c665bc2532b6179ad594482d"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.aarch64-linux-gnu.tar.gz"
+[[Makemsix]]
+arch = "aarch64"
+git-tree-sha1 = "a9b6e1a4d1fa3ec13379a6edb216f6c383dc722e"
+libc = "musl"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "70e8f8164eb63670ad302abd6745db706f5abc162d30cd3fba2f2ae8d80fba34"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.aarch64-linux-musl.tar.gz"
+[[Makemsix]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2cb70a3eea67db4ae394f81cdb94d9638f62c0a5"
+libc = "glibc"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "dd4d565881e792fc84305e3f5172b6cbf6dabebec22dfeb4de87d9fe70043728"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.armv6l-linux-gnueabihf.tar.gz"
+[[Makemsix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cecddd2d2076a12db26797c4fb0555a94a7c94d7"
+libc = "glibc"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "a1ea40d8072a5aaf3ad7e65bacf48b19ecef4c05d1138f3aed8bc899d89fee36"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.armv7l-linux-gnueabihf.tar.gz"
+[[Makemsix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "93a7186b4df078ed31900fdd56627737943ee4ae"
+libc = "musl"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "af9c37edb215719499070707cbfa31d35fab9872592f2f6a180c7382eb650784"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.armv7l-linux-musleabihf.tar.gz"
+[[Makemsix]]
+arch = "i686"
+git-tree-sha1 = "384cee8f063754302280ffa077cd8bdd17700574"
+libc = "glibc"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "78cba5ef5685aab11fe750f10ffd017e00c4d78d33970263137401d9dfbf428e"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.i686-linux-gnu.tar.gz"
+[[Makemsix]]
+arch = "i686"
+git-tree-sha1 = "273b8901b2c03a79ffaa42f7127b3e13128bba0e"
+libc = "musl"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "624f65cebad4040946314781853a449d509fd35c0ac907214a79897bc9b58e60"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.i686-linux-musl.tar.gz"
+[[Makemsix]]
+arch = "powerpc64le"
+git-tree-sha1 = "20f7f3b23618f840f1d41f126e73db5ec374ae19"
+libc = "glibc"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "3e4500acb4073194673d5e67f4b8cb54a95a8ce4d2bfa8b6abe0456c98f2e2ec"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.powerpc64le-linux-gnu.tar.gz"
+[[Makemsix]]
+arch = "x86_64"
+git-tree-sha1 = "b74d70ec21407fe4cd7fe830a319fa3dcd99489f"
+os = "macos"
+
+    [[Makemsix.download]]
+    sha256 = "3ca26fdb15cf0a1d4e628fcef71e4bbcf424d44f91f12790dd1cde37c03248af"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.x86_64-apple-darwin.tar.gz"
+[[Makemsix]]
+arch = "x86_64"
+git-tree-sha1 = "65f8ccbea835a6a7b97834fc65b13eaae5e9dcb6"
+libc = "glibc"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "e2ac941d5a64a34fe2021ea75654bfc9f1d35209c00569d6ed9ad2da2cd1b629"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.x86_64-linux-gnu.tar.gz"
+[[Makemsix]]
+arch = "x86_64"
+git-tree-sha1 = "4887db77d27f6bb5623682d40e3fb476817555da"
+libc = "musl"
+os = "linux"
+
+    [[Makemsix.download]]
+    sha256 = "60606c294f5dacc55626abe223a765cb2070cb553ff891e1b6e3e5602b97abb5"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.x86_64-linux-musl.tar.gz"
+[[Makemsix]]
+arch = "x86_64"
+git-tree-sha1 = "c2fd49be5fe6bc3e19e4b22eeca80aa1e9063b23"
+os = "freebsd"
+
+    [[Makemsix.download]]
+    sha256 = "a08ab749d3a4d29ad682eea748050fcb36b22ffde7809fa6ca584fe1057810dc"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.x86_64-unknown-freebsd.tar.gz"
+[[Makemsix]]
+arch = "x86_64"
+git-tree-sha1 = "da6a0ba52c14cb85e9a00ceb97832d22de040e34"
+os = "windows"
+
+    [[Makemsix.download]]
+    sha256 = "df67934ba5637195633f30d9d4d83763ca96d2cb14a7f62621613119dbcd8104"
+    url = "https://github.com/JuliaBinaryWrappers/Makemsix_jll.jl/releases/download/Makemsix-v1.7.241+0/Makemsix.v1.7.241.x86_64-w64-mingw32.tar.gz"
