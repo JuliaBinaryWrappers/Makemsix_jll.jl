@@ -1,6 +1,6 @@
 name = "Makemsix_jll"
 uuid = "92e7c7cf-2c17-5ab8-9563-5ab5b2fcee8a"
-version = "1.7.241+0"
+version = "1.7.241+1"
 
 [deps]
 fts_jll = "d65627f6-89bd-53e8-8ab5-8b75ff535eee"
